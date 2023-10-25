@@ -30,9 +30,17 @@ ii) in toggle function, change 'done' property in the task in array
 #### view/download the flowchart for this app using google drive link below
 https://drive.google.com/file/d/1FvYDu8HHIifrfCo3bSp2W2N17KMNI507/view?usp=drive_link
 
+# [Links]
+-Hosted Link: https://dcvsh-todo.netlify.app/
+-Demo Video: https://youtu.be/1u50ZBmgr8g
+-Git Repository: https://github.com/Hemendra-DCVS/toDO
 
-Git Repository link: https://github.com/Hemendra-DCVS/toDO
 
-Video link: https://youtu.be/1u50ZBmgr8g
+# [Author]
+-Name : Hemendra
 
-Hosted Link: https://dcvsh-todo.netlify.app/
+-LinkedIn : https://www.linkedin.com/in/hemendra-dcvs/
+
+-Github : https://github.com/Hemendra-DCVS
+
+-Email : hemendrachanti@gmail.com
